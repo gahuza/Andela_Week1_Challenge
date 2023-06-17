@@ -1,0 +1,46 @@
+
+
+h2{
+    color: black;
+    position: absolute;
+left:100px;
+top: 0px;
+}
+ol{
+    position: absolute;
+    top: 0px;
+    display: flex;
+    left: 250px;
+   
+}
+ol li{
+    display: flex;
+    padding-left: 20px;
+    display: inline;
+    color: black;
+    font-size: 19px;
+}
+
+.tags-container{
+    position: absolute;
+    top: 250px;
+    left: 200px;
+}
+.recipes-list{
+    width: 100%;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+.describution{
+    width: 50%;
+    height: 600px;
+    
+    position: absolute;
+    top: 100px;
+    left: 500px;
+}
+a{
+    text-decoration: none;
+    color: orange;
+}
